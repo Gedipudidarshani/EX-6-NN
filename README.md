@@ -70,8 +70,8 @@ print(classification_rep)
 ```
 
 <H3>Output:</H3>
-<img width="743" height="546" alt="image" src="https://github.com/user-attachments/assets/d3ab2032-61d8-4235-b6de-805c91af3fe2" />
-<img width="733" height="302" alt="image" src="https://github.com/user-attachments/assets/0d919443-d2e1-4919-93d1-c9d8cd236050" />
+<img width="665" height="551" alt="image" src="https://github.com/user-attachments/assets/259c55cb-c57f-4702-b701-f52ab355751f" />
+<img width="657" height="302" alt="image" src="https://github.com/user-attachments/assets/ff7ac47e-437b-4436-8ee1-34888cc72109" />
 
 
 
